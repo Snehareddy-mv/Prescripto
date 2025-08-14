@@ -98,7 +98,7 @@ const updateProfile=async()=>{
                     value={profileData.fees}
                   />
                 ) : (
-                  profileData.fee
+                  profileData.fees
                 )}
               </span>
             </p>
